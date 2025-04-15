@@ -36,8 +36,8 @@ Live demo of the dog viewer in action:
 
 ### Links
 
-- [GitHub Repo](https://github.com/Lasse-Rodal/dog-viewer)
-- [Live Demo](https://lasse-rodal.github.io/dog-viewer/)
+- [GitHub Repo](https://github.com/Lasse-Rodal/random-dog-api)
+- [Live Demo](https://lasse-rodal.github.io/random-dog-api/)
 
 ---
 
